@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>First, Great Britaines confession Second, Great Britaines intercession. Third, and the authours earnest desire for the Kings Majesties happy and speedy returne to his high court of Parliament.</title>
+            <author>Cragge, John, Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85318</idno>
+            <idno type="STC">Wing F976</idno>
+            <idno type="STC">Thomason 669.f.6[103]</idno>
+            <idno type="STC">ESTC R212584</idno>
+            <idno type="EEBO-CITATION">99871188</idno>
+            <idno type="PROQUEST">99871188</idno>
+            <idno type="VID">160964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160964)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[103])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>First, Great Britaines confession Second, Great Britaines intercession. Third, and the authours earnest desire for the Kings Majesties happy and speedy returne to his high court of Parliament.</title>
+                  <author>Cragge, John, Gent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Great Britaines mournfull dolefull lamentation,".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>John Cragge named as author in initial lines of third stanza.</note>
+                  <note>Annotation on Thomason copy: "January 7 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:160964:1" rendition="simple:additions"/>
+            <head>Firſt, Great Britaines Confeſsion. Second, Great Britaines Interceſsion. Third, and the Authours earneſt deſire for the Kings Majeſties happy and ſpeedy returne to his high Court of Parliament.</head>
+            <div type="part">
+               <argument>
+                  <lg>
+                     <l>Great Britaines mournfull dolefull lamentation,</l>
+                     <l>Becauſe of ſin, and ſinfull occupation.</l>
+                     <l>Craving of God true righteouſneſſe and peace,</l>
+                     <l>Faith, hope and love, unto her joyes increaſe.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>VVOes me <hi>great Britain,</hi> what becomes of me</l>
+                  <l>That have offended in ſo high degree,</l>
+                  <l>By ſins committed? fearfull ſins indeed,</l>
+                  <l>Which makes my ſoule and body much to bleed.</l>
+                  <l>I have forſaken God, the God of love,</l>
+                  <l>Well may Chriſt Jeſus my ill deeds reprove.</l>
+                  <l>I have forſaken God, the God of peace,</l>
+                  <l>Well may Chriſt Jeſus fearfull woes increaſe.</l>
+                  <l>I have forſaken truth, peace, righteouſneſſe,</l>
+                  <l>By fearfull hainous ſins and wickedneſſe.</l>
+                  <l>I have forſaken Jeſus Chriſt my Saviour,</l>
+                  <l>By my moſt baſe and filthy foule behaviour</l>
+                  <l>I have abuſed Gods moſt holy Spirit,</l>
+                  <l>By my refuſing of Chriſt Jeſus merit.</l>
+                  <l>I have ſo much defended my ill cauſe,</l>
+                  <l>That of Chriſt Jeſus I get ſmall applauſe.</l>
+                  <l>Whereas I ſhould in humble wiſe confeſſe</l>
+                  <l>My ſins to God, and all my wickedneſſe.</l>
+                  <l>I have defended ſin, and ſins condition,</l>
+                  <l>That well I may be throwne into perdition.</l>
+                  <l>I with a brazen face have fronted God,</l>
+                  <l>I well may ſuffer his moſt fearfull rod.</l>
+                  <l>I have excus'd, whereas I ſhould accuſe,</l>
+                  <l>Condemne and judge my ſelfe for my abuſe.</l>
+                  <l>I have abus'd Gods patience by my ſin,</l>
+                  <l>Well may my ſorrowes miſeries begin.</l>
+                  <l>By pride, oppreſſion, I have ſins committed,</l>
+                  <l>Which in true juſtice ſcarce can be remitted.</l>
+                  <l>If mercy plead not for my ſinfull caſe,</l>
+                  <l>I ſhall become moſt filthy, foule, and baſe.</l>
+                  <l>By drinking, eating, riot, and exceſſe,</l>
+                  <l>I have committed fearfull wickedneſſe.</l>
+                  <l>By ſwearing, lying, idleneſſe, and ſloth,</l>
+                  <l>I have offended, broken faith and troth.</l>
+                  <l>By Idoll ſervice, fearfull to behold,</l>
+                  <l>I have offended, I may be comptroll'd.</l>
+                  <l>By great injuſtice I have much tranſgreſt,</l>
+                  <l>The poore mans cauſe I have not in requeſt.</l>
+                  <l>By wrongfull dealing, bribery, extortion,</l>
+                  <l>In hell I doe deſerve to have my portion.</l>
+                  <l>By whoredome, looſneſſe, idleneſſe, and eaſe,</l>
+                  <l>By gaming, ſporting, I my God diſpleaſe.</l>
+                  <l>By criſping, curling, pondring, frizling haire,</l>
+                  <l>I ſeeme a ruſſian rude, without compare.</l>
+                  <l>By digging, delving in the depth of ſin,</l>
+                  <l>Well may my ſorrowes miſeries begin.</l>
+                  <l>By ſins in ſecret, and in publique done,</l>
+                  <l>I grieved have both Father and the Son.</l>
+                  <l>I grieved have my Gods moſt holy Spirit,</l>
+                  <l>Death and deſtruction well may be my merit.</l>
+                  <l>I have ſo prov'd my ſelfe baſe Cavalleer,</l>
+                  <l>That I deſerve to have ſad whipping cheer.</l>
+                  <l>I have ſo much rebell'd againſt my God,</l>
+                  <l>He may full juſtly plague me with his rod.</l>
+                  <l>I have beene ſuch an enemy to peace,</l>
+                  <l>That well Chriſt Jeſus may my woes increaſe.</l>
+                  <l>The peace of God I ſlenderly regarded,</l>
+                  <l>I for my ſins may juſtly be rewarded</l>
+                  <l>With war, with famine, miſery and woe,</l>
+                  <l>Becauſe my ſins I will not quite forgoe.</l>
+                  <l>By Idoll ſervice, Romiſh occupation,</l>
+                  <l>I doe deſerve to have no longer ſtation.</l>
+                  <l>By Image-worſhip, Idoll gods adoring,</l>
+                  <l>I from Chriſt Jeſus baſely run a whoring.</l>
+                  <l>By ſwearing, curſing, blaſphemy, and lyes,</l>
+                  <l>My fearfull oathes infected have the skies.</l>
+                  <l>By much prophaning of Gods Sabbath day,</l>
+                  <l>I well deſerve to be caſt quite away</l>
+                  <l>By my diſhonouring of my parents deare,</l>
+                  <l>I much deſerve to have ſad whipping cheare,</l>
+                  <l>By killing, ſlaying, murdering, hating, wounding,</l>
+                  <l>My fearfull ſins are ſuper much abounding.</l>
+                  <l>By baſe adultery, ſpirituall fornication,</l>
+                  <l>By whoredomes baſe, and ſoule abomination</l>
+                  <l>I ſinned have, I have offended God,</l>
+                  <l>He wel may plague me, make me feele his rod.</l>
+                  <l>For robbing, plundring, cozning, cheating, ſtealing</l>
+                  <l>God well may plague me for my unjuſt dealing.</l>
+                  <l>For bearing witneſſe falſe, unjuſt, untrue,</l>
+                  <l>My wretched caſe my ſinfull ſoule may rue.</l>
+                  <l>For coveting, and craving things unjuſt,</l>
+                  <l>I juſtly ſuffer, and I ſuffer muſt.</l>
+                  <l>Unleſſe Gods mercy doe appeare to me</l>
+                  <l>In Jeſus Chriſt, I ſhall forſaken be.</l>
+                  <l>Good God forgive me theſe my ſinfull crimes,</l>
+                  <l>In mercy turne thee unto me betimes.</l>
+                  <l>Turne me unto thee by my ſins forſaking,</l>
+                  <l>That of true joyes my ſoule may have partaking.</l>
+                  <l>Grant this good God for Chriſt his ſake thy Son,</l>
+                  <l>Forgive my ſins I have againſt thee done.</l>
+                  <l>To whom with thee, and bleſſed holy Spirit,</l>
+                  <l>Who onely doſt eternity inherit,</l>
+                  <l>Be glory, honour, power, thanks, and praiſe,</l>
+                  <l>On earth, in heaven, without end of dayes, <hi>Amen.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <argument>
+                  <lg>
+                     <l>Great Britaine prayes for pardon, for remiſſion</l>
+                     <l>Of ſins, tranſgreſſions, filthy foule condition:</l>
+                     <l>She craves Gods mercy, righteouſneſſe, truth, peace,</l>
+                     <l>Faith, hope, and love, unto her joyes encreaſe.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>I Sigh, I ſob, I ſorrow, mourne, lament,</l>
+                  <l>My ſins committed make me to repent.</l>
+                  <l>My God is angry, he offended is,</l>
+                  <l>For ſins, tranſgreſſions, for things done amiſſe.</l>
+                  <l>What will become of me Great Britaines Land,</l>
+                  <l>That have offended with ſo high a hand?</l>
+                  <l>I have abus'd my God, my ſelfe, my friends,</l>
+                  <l>By ſinfull actions cauſing fearfull ends.</l>
+                  <l>I am aſham'd to looke God in the face,</l>
+                  <l>Becauſe my ſins have brought me in diſgrace.</l>
+                  <l>Good Lord forgive me mine offences all,</l>
+                  <l>My fearfull ſins, tranſgreſſions great and ſmall.</l>
+                  <l>My ſins of thought, my ſins of word and deed,</l>
+                  <l>Good God forgive them, they ſtill make me bleed.</l>
+                  <l>Lord heale my griefes, my wounds are feſtred ſore,</l>
+                  <l>My fearfull ſins ſtill make me cry and rore.</l>
+                  <l>I much lament my filthy foule condition,</l>
+                  <l>Which brings my ſoule and body to perdition.</l>
+                  <l>Remove my ſins out of thy pretious ſight,</l>
+                  <l>In ſins committed thou tak'ſt no delight.</l>
+                  <l>Good God paſſe by them, pitie my diſtreſſe,</l>
+                  <l>Forgive my ſins, and all my wickedneſſe.</l>
+                  <l>I am become like one that is diſeas'd</l>
+                  <l>With falling ſickneſſe, that would faine be eas'd,</l>
+                  <l>Who wounds his head, his body, and his heart,</l>
+                  <l>And trembles, quivers, ſhakes in every part,</l>
+                  <l>Beating and thumping with ſuch fearfull blowes,</l>
+                  <l>His breſt, his ſtomack, belly, face, and browes,</l>
+                  <l>And findes no reſt, untill the fit be gone,</l>
+                  <l>Which makes him weepe his fit to think upon.</l>
+                  <l>This is my caſe, this is my ſad diſeaſe,</l>
+                  <l>To free me from it Lord thee let it pleaſe.</l>
+                  <l>Thou haſt the power, none but thee alone,</l>
+                  <l>Thou well canſt heale my malady and mone.</l>
+                  <l>Thou canſt defend my head and members all,</l>
+                  <l>Preſerue Great Britaine that it may not fall.</l>
+                  <l>Lord heale thoſe members that infected are,</l>
+                  <l>Thou in ſweet mercy art without compare.</l>
+                  <l>Speake thou the word; do thou perform the deed,</l>
+                  <l>Thy healing Spirit ſend to me with ſpeed.</l>
+                  <l>Lord ſpread thy mercy over thine handmaid,</l>
+                  <l>Who hath by ſins beene fearfully betraid,</l>
+                  <l>And lyes a bleeding in moſt fearfull wiſe,</l>
+                  <l>Lord in thy mercy doe not me deſpiſe.</l>
+                  <l>I am a ſinner I my ſelfe confeſſe,</l>
+                  <l>And am arraign'd for ſin and wickedneſſe,</l>
+                  <l>To plead not guilty if I make deniall,</l>
+                  <l>My ſins cry out againſt me in my triall.</l>
+                  <l>I am found guilty, I my ſelfe ſubmit,</l>
+                  <l>My ſins confeſſe, Chriſt Jeſus them remit.</l>
+                  <l>I humbly pray thee for thy mercies ſake</l>
+                  <l>Of thy ſweet merits let my ſoule pertake.</l>
+                  <l>Make well my head, Lord, make my body found,</l>
+                  <l>Let no ill member in the ſame be found.</l>
+                  <l>Let head and members in ſuch wiſe agree,</l>
+                  <l>That I true ſervice may performe to thee.</l>
+                  <l>My head, my body make ſo perfect well,</l>
+                  <l>That I may live in peace, in ſafety dwell,</l>
+                  <l>That ſo I may be thankfull unto thee,</l>
+                  <l>Who mak'ſt me ſound and ſafe in each degree,</l>
+                  <l>That ſoule and body both may well conſent</l>
+                  <l>To hold with thee a bleſſed Parliament.</l>
+                  <l>That ſo my ſins tranſgreſſions ſwept away,</l>
+                  <l>I may thee truly ſerve both night and day.</l>
+                  <l>Grant this good God for Chriſt his ſake, thy Son,</l>
+                  <l>And his ſweet merits he for me hath done.</l>
+                  <l>To whom with thee, and bleſſed holy Spirit,</l>
+                  <l>Be thankes and praiſe, who heaven doſt inherit,</l>
+                  <l>Be glory, honour, power, thankes, and praiſe,</l>
+                  <l>On earth, in heaven, without end of daies. <hi>Amen.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <argument>
+                  <lg>
+                     <l>To bring our King to his grave Parliament</l>
+                     <l>
+                        <hi>John Cragge</hi> hath written this with hearts conſent,</l>
+                     <l>Praying to God he may returne with ſpeed,</l>
+                     <l>To cure the fretting wound which ſtill doth bleed.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>COm home, com home, ſweet ſoverain <hi>Charlemain</hi>
+                  </l>
+                  <l>Come chear your ſubjects harts w<hi rend="sup">ch</hi> much com<g ref="char:EOLhyphen"/>plain,</l>
+                  <l>By reaſon of your abſence cauſing war,</l>
+                  <l>Which in Great Britaine makes a fearfull ſcar.</l>
+                  <l>Full many a hundred thouſand pound is ſpent</l>
+                  <l>This Civill war, which cauſeth diſcontent,</l>
+                  <l>Which might have beene beſtow'd a better way,</l>
+                  <l>Then thus to bring your kingdomes to decay.</l>
+                  <l>Beſides the loſſe of many a gentle heart,</l>
+                  <l>Whoſe loſſe to friends brings ſorrow, wo &amp; ſmart.</l>
+                  <l>Your comming home will be accepted well,</l>
+                  <l>Why ſhould you thus againſt your ſelfe rebell?</l>
+                  <l>Why ſhould you ſtrive againſt your Parliament,</l>
+                  <l>Which in true juſtice ſeekes to give content</l>
+                  <l>To God and man, to neighbour, friend, &amp; brother,</l>
+                  <l>Yea to your ſelfe in Chriſt above all other.</l>
+                  <l>I dare be bold, there's not a man doth live</l>
+                  <l>In Parliament but would contentment give</l>
+                  <l>Unto your Majeſty, in ſuch a way</l>
+                  <l>As might for ever make you win the day</l>
+                  <l>Againſt your foes that Antichriſt maintaine,</l>
+                  <l>Such foes ſubdue your Parliament would faine.</l>
+                  <l>The grand Militia which they take in hand,</l>
+                  <l>Is for the health and welfare of the Land,</l>
+                  <l>Not any wayes to derogate at all,</l>
+                  <l>Nor take from you, nor make your ſcepter fall.</l>
+                  <l>Their ſtrength is yours, if you will ſide with them,</l>
+                  <l>They doe eſteeme you for their pretious Gem.</l>
+                  <l>Their ſending forces is to fetch you home,</l>
+                  <l>To bend your force againſt the force of Rome;</l>
+                  <l>Not to moleſt you, nor your perſon teare,</l>
+                  <l>But to conduct you for your ſafety here,</l>
+                  <l>From ſuch as have abus'd your kingdomes Crown</l>
+                  <l>And would the Law and Goſpell quite put downe,</l>
+                  <l>The Law of God, and Jeſus Chriſt his Son,</l>
+                  <l>To make your kingdomes three be quite undone.</l>
+                  <l>Come then ſweet Soveraign, friendly give conſent</l>
+                  <l>And well accord with your grave Parliament.</l>
+                  <l>What if you did in preſence of them all,</l>
+                  <l>Before Chriſt Jeſus let your Scepter fall,</l>
+                  <l>And yeeld to him what is his due by right?</l>
+                  <l>It would advance you in Chriſt Jeſus ſight.</l>
+                  <l>What if you did confeſſe your ſelfe to be</l>
+                  <l>A ſinfull man againſt his Majeſtie?</l>
+                  <l>And one that had not done ſo good a deed,</l>
+                  <l>As to Chriſt Jeſus might contentment breed?</l>
+                  <l>And that you ſory are for what is done</l>
+                  <l>Againſt Chriſt Jeſus under Britaines Son.</l>
+                  <l>This is the thing Chriſt Jeſus doth deſire,</l>
+                  <l>Your humbleneſſe is all he doth require.</l>
+                  <l>If you ſubmit to him, he yeelds to you,</l>
+                  <l>And will your foes for ever quite undoe.</l>
+                  <l>There's not a man in your grave Parliament,</l>
+                  <l>But with their heart will give you good content.</l>
+                  <l>Nay if before them all you ſhould lay downe</l>
+                  <l>Your Diadem, your Scepter, and your Crowne,</l>
+                  <l>There's none but would fall down upon their knee</l>
+                  <l>And with your Majeſtie full well agree,</l>
+                  <l>And much advance you for your royal deed,</l>
+                  <l>Wch thing would ſtench the wound that ſtill doth bleed</l>
+                  <l>This thing no doubt would ſuch contentment give</l>
+                  <l>To God in Chriſt, that you ſhould peacefull live,</l>
+                  <l>And in your ſoule ſhould ſuch contentment finde,</l>
+                  <l>No thing on earth ſhould more content your mind,</l>
+                  <l>No King on earth ſhould ſuch contentment have,</l>
+                  <l>You ſhall not want what you can wiſh or crave.</l>
+                  <l>Your ſubjects love in Chriſt ſhall be your gaine,</l>
+                  <l>And then in Chriſt you ſhall full ſweetly reigne,</l>
+                  <l>In faith, in truth, in righteouſneſſe and peace,</l>
+                  <l>In love, in honour, to your joyes encreaſe.</l>
+                  <l>Then come ſweet Soveraigne, come to London town,</l>
+                  <l>It will advance your Scepter, and your Crowne,</l>
+                  <l>By ſiding with your wiſe grave Parliament,</l>
+                  <l>Will give true Chriſtian hearts full ſweet content.</l>
+                  <l>Which that you may in Chriſt perform with ſpeed</l>
+                  <l>Chriſt Jeſus bleſſe you for ſuch Princely deed.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
